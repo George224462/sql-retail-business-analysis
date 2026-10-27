@@ -1,5 +1,7 @@
 # SQL Retail Business Analysis
 
+**Read the full write-up:** [Case study (PDF)](case-study.pdf)
+
 Three business questions about an online retail store, answered with SQL. I used SQLite for the analysis, Excel for the chart, and generative AI (Claude) as a tutor, and I verified every result.
 
 ## Business questions
